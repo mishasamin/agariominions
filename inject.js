@@ -1,3 +1,16 @@
+// ==UserScript==
+// @name        MishasaminsMinionBots
+// @namespace   MishasaminsMinionBots
+// @include     http://agar.io/
+// @include     http://agar.io/index.html
+// @include     http://agar.io/?ip=*
+// @include     https://agar.io/
+// @include     https://agar.io/index.html
+// @include     https://agar.io/?ip=*
+// @version     1
+// @grant       none
+// @author      Mikhail Samin
+// ==/UserScript==
 /*
 Copyright Mikhail Samin, 2015.
 Only for non-commercial use.
@@ -27,21 +40,6 @@ SOFTWARE.
 
 If you change this code, please, write to mishasamin@ya.ru (I want to update code when agar.io change).
 If you copy or changing the code, this comment should remain unchanged.*/
-
-
-// ==UserScript==
-// @name        MishasaminsMinionBots
-// @namespace   MishasaminsMinionBots
-// @include     http://agar.io/
-// @include     http://agar.io/index.html
-// @include     http://agar.io/?ip=*
-// @include     https://agar.io/
-// @include     https://agar.io/index.html
-// @include     https://agar.io/?ip=*
-// @version     1
-// @grant       none
-// @author      Mikhail Samin
-// ==/UserScript==
 
     if ("undefined" == typeof hasRun) {
         hasRun = !0, window.stop(), document.documentElement.innerHTML = "";
