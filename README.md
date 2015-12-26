@@ -11,6 +11,7 @@
 9. If you logged in, wait for account information downloading
 10. ???
 11. PROFIT!
+
 ## How to use
 1. You can use powerups: click to the "settings" button.
 2. If you connected to the party or private server, you can run bots.
